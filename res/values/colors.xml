@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background_white">#FFFFFF</color>
+    <!-- <color name="bg_gray_light">#F2F2F2</color> -->
+    <color name="diarylist_image_null">#E9E9E9</color>
+    <!-- <color name="icon_gray">#7F7F7F</color> -->
+    <!-- <color name="comment_gray">#E5E5E5</color> -->
+    <!-- <color name="text_gray">#4A4A4A</color> -->
+    <!-- <color name="text_gray_light_bg_gray_light">#F2F2F2</color> -->
+    <!-- <color name="android_hint_gray">#757575</color> -->
+    <!-- <color name="android_darker_gray">#A7A7A7</color> -->
+    <!-- <color name="text_gray_custom">#979797</color> -->
+    <color name="point">#0099ED</color>
+    <color name="point_light">#6DC6F6</color>
+    <!-- <color name="point2">#41b5f5</color> -->
+    <color name="diary_title">#545454</color> <!-- 셀렉 -->
+    <color name="diary_content">#4F4F4F</color>
+    <color name="diary_date">#E4E4E4</color>
+    <color name="edit_diary">#4D4D4D</color>
+    <color name="drawblemenu">#454545</color>
+    <color name="bottom_icon">#7F7F7F</color>
+    <color name="bottom_menu">#E5E5E5</color>
+    <color name="background_grey">#F2F2F2</color>
+    <color name="background_skyblue">#EBF7FF</color>
+    <color name="diary_edit_edittext_hint">#838383</color>
+    <color name="edit_diary_date_blue">#53b7ee</color>
+    <color name="dialog_add_section">#fcfcfd</color>
+    <color name="no_image">#C2C2C1</color>
+    <color name="log_blue">#94D028</color>
+    <color name="log_green">#22BCD9</color>
+    <color name="log_yellow">#FCC42D</color>
+    <color name="log_orange">#F68C36</color>
+    <color name="log_red">#E9423B</color>
+    <color name="log_violet">#AF92D7</color>
+    <color name="log_violet_light">#D2C0ED</color>
+    <color name="log_red_light">#FF6B63</color>
+    <color name="black">#000000</color>
+    <color name="background_skyblue_dark">#EFF4F8</color>
+    <color name="background_grey_white">#F7F7F7</color>
+    <color name="icon_grey_light">#C6C1BF</color>
+    <color name="icon_orange">#F3A18B</color>
+    
+</resources>
